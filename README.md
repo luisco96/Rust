@@ -1,3 +1,3 @@
 Learning Rust repository
 
-A bunvh of code snipped and excercises from the Rust book
+A bunch of code snippeds and excercises from the Rust book
